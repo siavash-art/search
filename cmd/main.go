@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	search.All("Tajikistan", []string{"../data/file1.txt"})		
+	//search.All("Tajikistan", []string{"../data/file1.txt"})		
 }
